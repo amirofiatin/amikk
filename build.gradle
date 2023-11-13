@@ -3,7 +3,7 @@ plugins {
     //id 'kotlin-android'
 }
 
-//android {
+android {
     compileSdk 33
 
     defaultConfig {
@@ -29,6 +29,7 @@ plugins {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+}
 
 dependencies {
 
