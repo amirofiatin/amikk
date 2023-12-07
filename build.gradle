@@ -5,10 +5,14 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:7.4.1'
-        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.21'
+        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:2.0.0-Beta1'
     }
 }
 
 task clean(type: Delete) {
     delete rootProject.buildDir
+}
+public class DatabaseClient {
+
+    private static DatabaseClient nI
 }
