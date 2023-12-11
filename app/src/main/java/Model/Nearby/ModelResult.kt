@@ -1,6 +1,6 @@
 package com.example.aplikasilaundry.model.nearby
 
-import Modell.Nearby.ModelGeometry
+import Model.Nearby.ModelGeometry
 import com.google.gson.annotations.SerializedName
 import java.io.Serializable
 

@@ -5,7 +5,7 @@ import androidx.room.insert;
 import androidx.room.onConflictStrategy;
 import androidx.room.Query;
 
-import Modell.ModelLaundry;
+import Model.ModelLaundry;
 
 import java.util.List;
 

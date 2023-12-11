@@ -1,4 +1,4 @@
-package Modell
+package Model
 
 import android.os.Parcel
 import android.os.Parcelable
