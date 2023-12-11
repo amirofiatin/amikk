@@ -1,4 +1,4 @@
-package com.example.aplikasilaundry.model
+package Modell
 
 import android.os.Parcel
 import android.os.Parcelable

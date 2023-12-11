@@ -1,12 +1,11 @@
 package database.database.dao;
 
-import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
 import androidx.room.insert;
 import androidx.room.onConflictStrategy;
 import androidx.room.Query;
 
-import com.example.aplikasilaundry.model.ModelLaundry;
+import Modell.ModelLaundry;
 
 import java.util.List;
 

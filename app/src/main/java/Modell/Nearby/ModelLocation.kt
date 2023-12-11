@@ -1,4 +1,4 @@
-package com.example.aplikasilaundry.model.nearby
+package Modell.Nearby
 
 import com.google.gson.annotations.SerializedName
 

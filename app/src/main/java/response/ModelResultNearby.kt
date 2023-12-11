@@ -1,4 +1,4 @@
-package com.example.aplikasilaundry.model.response
+package com.example.aplikasilaundry.response
 
 import com.example.aplikasilaundry.model.nearby.ModelResults
 import com.google.gson.annotations.SerializedName
